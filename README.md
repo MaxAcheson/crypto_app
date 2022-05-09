@@ -34,4 +34,4 @@ In order to view the project, navigate to the `StreamlitCryptoTracker.py` file i
 
 ## View of Streamlit User Interface
 
-![Streamlit1](
+![Streamlit1](https://github.com/MaxAcheson/group_project_3/blob/main/Images/streamlit-app.png)
