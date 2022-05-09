@@ -12,7 +12,7 @@ This project utilizes python 3.7 along with the following packages:
 
 [streamlit](https://streamlit.io/)
 
-This project has been constructed in [Visual Studio Code](https://code.visualstudio.com/) and runs on the [Streamlit](https://streamlit.io/) web app framework.
+This project has been constructed in [Visual Studio Code](https://code.visualstudio.com/) and runs on a [Streamlit](https://streamlit.io/) web app framework.
 
 ## Installation Guide
 
