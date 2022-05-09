@@ -38,7 +38,7 @@ In order to view the project, navigate to the `StreamlitCryptoTracker.py` file i
 Using the sidebar, app users have the choice or tracking or comparing up to six cryptocurrency prices. The module beneath the price data allows users to select a particular cryptocurrency for back testing. 
 
 
-![AddingCryptos](https://github.com/MaxAcheson/group_project_3/blob/main/Images/AddingCryptos1.png)
+![AddingCryptos](https://github.com/MaxAcheson/group_project_3/blob/main/Images/AddingCryptos.png)
 New cryptocurrencies can easily be added to this select box by adding cryptocurrencies to the dictionary within the `StreamlitCryptoTracker.py` file. Make sure to double check for proper formatting by finding the correct ticker on [Yahoo Finance](https://finance.yahoo.com/).
 
 ## Contributors
