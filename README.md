@@ -47,7 +47,7 @@ Max Acheson - maxacheson@gmail.com | [LinkedIn](https://www.linkedin.com/in/max-
 
 Josh Mischung - josh@knoasis.io | [LinkedIn](https://www.linkedin.com/in/joshmischung/)
 
-Emily Bertani - emily.bertani.md@gmail.com | (https://www.linkedin.com/in/emily-bertani-1ab184222/)
+Emily Bertani - emily.bertani.md@gmail.com | [LinkedIn](https://www.linkedin.com/in/emily-bertani-1ab184222/)
 
 ## Licenses
 
