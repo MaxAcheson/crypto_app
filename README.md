@@ -1,6 +1,6 @@
-# Customizable Crypto Price Tracker and Backtester
+# Customizable Crypto Price Tracker and Back Tester
 
-This project produces a fully customizable cryptocurrency price tracker web application. Users will be able to select up to six cryptocurrencies to track, while simultaneously backtesting any cryptocurrency of their choice using the robust built-in backtester module. Prices are delivered in real time via the public binance API. 
+This project produces a fully customizable cryptocurrency price tracker web application. Users will be able to select up to six cryptocurrencies to track, while simultaneously backtesting any cryptocurrency of their choice using the robust built-in back tester module. Prices are delivered in real time via the public Binance and yfinance APIs. 
 
 ## Technologies
 
@@ -35,3 +35,9 @@ In order to view the project, navigate to the `StreamlitCryptoTracker.py` file i
 ## View of Streamlit User Interface
 
 ![Streamlit1](https://github.com/MaxAcheson/group_project_3/blob/main/Images/streamlit-app.png)
+Using the sidebar, app users have the choice or tracking or comparing up to six cryptocurrency prices. The module beneath the price data allows users to select a particular cryptocurrency for back testing. 
+
+
+![AddingCryptos](
+New crypto currencies can easily be added to this select box by adding cryptocurrencies to the dictionary within the `StreamlitCryptoTracker.py` file. Make sure to double check for proper formatting.
+
