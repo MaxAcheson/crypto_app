@@ -45,6 +45,10 @@ New cryptocurrencies can easily be added to this select box by adding cryptocurr
 
 Max Acheson - maxacheson@gmail.com | [LinkedIn](https://www.linkedin.com/in/max-acheson-75093a19a/)
 
+Josh Mischung - josh@knoasis.io | [LinkedIn](https://www.linkedin.com/in/joshmischung/)
+
+Emily Bertani - emily.bertani.md@gmail.com | (https://www.linkedin.com/in/emily-bertani-1ab184222/)
+
 ## Licenses
 
 MIT License
