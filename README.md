@@ -12,6 +12,8 @@ This project utilizes python 3.7 along with the following packages:
 
 [streamlit](https://streamlit.io/)
 
+[backtesting](https://pypi.org/project/Backtesting/)
+
 This project has been constructed in [Visual Studio Code](https://code.visualstudio.com/) and runs on a [Streamlit](https://streamlit.io/) web app framework.
 
 ## Installation Guide
@@ -27,6 +29,8 @@ This project has been constructed in [Visual Studio Code](https://code.visualstu
 `pip install yfinance`
 
 `pip install streamlit`
+
+`pip install Backtesting'
 
 ## Usage
 
