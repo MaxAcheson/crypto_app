@@ -30,7 +30,7 @@ This project has been constructed in [Visual Studio Code](https://code.visualstu
 
 `pip install streamlit`
 
-`pip install Backtesting'
+`pip install Backtesting`
 
 ## Usage
 
