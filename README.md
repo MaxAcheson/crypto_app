@@ -40,7 +40,7 @@ Using the sidebar, app users have the choice or tracking or comparing up to six 
 ## Adding New Cryptocurrencies to the Back Tester
 
 ![AddingCryptos](https://github.com/MaxAcheson/group_project_3/blob/main/Images/AddingCryptos.png)
-New cryptocurrencies can easily be added to this select box by adding cryptocurrencies to the dictionary within the `StreamlitCryptoTracker.py` file. Make sure to double check for proper formatting by finding the correct ticker on [Yahoo Finance](https://finance.yahoo.com/).
+New cryptocurrencies can easily be added to the back tester select box by adding cryptocurrencies to the dictionary within the `StreamlitCryptoTracker.py` file. Make sure to double check for proper formatting by finding the correct ticker on [Yahoo Finance](https://finance.yahoo.com/).
 
 ## Contributors
 
