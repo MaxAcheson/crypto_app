@@ -84,6 +84,7 @@ col1.metric(col4_selection, col4_price, col4_percent)
 col2.metric(col5_selection, col5_price, col5_percent)
 col3.metric(col6_selection, col6_price, col6_percent)
 
+
 st.markdown("---")
 st.header('**Plot Cryptocurrency**')
 
@@ -104,7 +105,7 @@ crypto = st.selectbox("Select Currency", currencies_dict.keys())
 
 # Obtain crypto pricing from Pandas-Datareader
 start_date = ('2015-5-13')
-end_date = ('2022-4-25')
+end_date = ('2022-5-12')
 stock_df = pdr.get_data_yahoo(
     currencies_dict[crypto],
     start_date,
