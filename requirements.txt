@@ -2,3 +2,4 @@ pandas
 yfinance
 streamlit
 backtesting
+pandas_datareader
